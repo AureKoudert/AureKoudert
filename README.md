@@ -5,7 +5,7 @@
 - 📫 Me contacter **aty-coudert@outlook.fr**
 <p align="left">
 <h3 align="left">Connect with me:
-<a href="https://linkedin.com/in/aurélien coudert" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aurélien coudert" height="60" width="80" /></a>
+<a href="https://linkedin.com/in/aurélien coudert" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aurélien coudert" height="45" width="60" /></a>
 </h3>
 </p>
 
