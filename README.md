@@ -3,9 +3,8 @@
 - 🌱 J'apprends en ce moment **Unreal Engine**
 
 - 📫 Me contacter **aty-coudert@outlook.fr**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
+<h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/aurélien coudert" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aurélien coudert" height="60" width="80" /></a>
 </p>
 
