@@ -8,7 +8,7 @@
 <a href="https://linkedin.com/in/aurélien coudert" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aurélien coudert" height="45" width="60" /></a>
 </h3>
 </p>
-<h3 align="center">Compétences</h3>
+<h1 align="center">Compétences</h1>
 <h3 align="left">Languages de programmation :</h3>
 <p align="left"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="80" height="80"/> </a> 
