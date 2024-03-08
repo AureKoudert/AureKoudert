@@ -3,12 +3,7 @@
 
 - 🌱 J'apprends en ce moment **Unreal Engine**
 
-- 📫 Me contacter **aty-coudert@outlook.fr**
-<p align="left">
-<h3 align="left">Connect with me:
-<a href="https://linkedin.com/in/aurélien coudert" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aurélien coudert" height="45" width="60" /></a>
-</h3>
-</p>
+
 <h1 align="center">Compétences</h1>
 <h3 align="left">Languages de programmation :</h3>
 <p align="left"> 
@@ -60,4 +55,11 @@
   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="80" height="80"/> </a>
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="80" height="80"/> </a> 
   <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="80" height="80"/> </a> 
+</p>
+
+- 📫 Me contacter **aty-coudert@outlook.fr**
+<p align="left">
+<h3 align="left">Connect with me:
+<a href="https://linkedin.com/in/aurélien coudert" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aurélien coudert" height="45" width="60" /></a>
+</h3>
 </p>
