@@ -1,7 +1,7 @@
 <h1 align="center">Who am I ?</h1>
 <h3 align="center">A programming student in France</h3>
 
--  **Unreal Engine**
+- I'm currently working on a ray tracing project
 - 🌱 I'm currently learning **Unreal Engine**
 
 
