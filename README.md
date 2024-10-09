@@ -1,5 +1,6 @@
 <h1 align="center">Who am I ?</h1>
 <h3 align="center">A programming student in France</h3>
+![fond_decran](https://github.com/user-attachments/assets/19554232-1c2e-40bc-9ca9-967a2ee8d804)
 
 - I'm currently working on a ray tracing project
 - 🌱 I'm currently learning **Unreal Engine**
