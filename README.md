@@ -2,8 +2,8 @@
 <h3 align="center">A programming student in France</h3>
 
 
-- I'm currently working on a ray tracing project
-- 🌱 I'm currently learning **Unreal Engine**
+- I'm currently working on a javascript project
+- 🌱 I'm currently learning **Lua**
 
 
 <h1 align="center">Skills</h1>
