@@ -133,18 +133,10 @@
 
 ---
 
-<h1 align="center">GitHub Trophies</h1>
-  ![](https://github-profile-trophy.vercel.app/?username=Aurelien&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
-
-
 <h1 align="center">...And a random dev quote</h1>
 
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-
-<h1 align="center">🔝 Top Contributed Repo</h1>
-
-  ![](https://github-contributor-stats.vercel.app/api?username=Aurelien&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
 
 
