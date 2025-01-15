@@ -134,22 +134,21 @@
 ---
 
 <h1 align="center">GitHub Trophies</h1>
-<div align="center">
   ![](https://github-profile-trophy.vercel.app/?username=Aurelien&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
-</div>
+
 
 <h1 align="center">...And a random dev quote</h1>
-<div align="center">
+
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-</div>
+
 
 <h1 align="center">🔝 Top Contributed Repo</h1>
-<div align="center">
-  ![](https://github-contributor-stats.vercel.app/api?username=Aurelien&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
-</div>
 
-<div align="center">
+  ![](https://github-contributor-stats.vercel.app/api?username=Aurelien&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
+
+
+
   [![](https://visitcount.itsvg.in/api?id=Aurelien&icon=0&color=7)](https://visitcount.itsvg.in)
-</div>
+
 
 <p align="center"> <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> </p>
