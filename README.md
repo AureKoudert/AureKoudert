@@ -2,7 +2,7 @@
 <h3 align="center">A programming student in France</h3>
 
 
-- I'm currently working on a javascript project
+- I'm currently working on a Vite/Vue project for Legrand
 - 🌱 I'm currently learning **Lua**
 
 
