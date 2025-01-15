@@ -1,7 +1,8 @@
 <h1 align="center">Who am I ?</h1>
 <h3 align="center">A programming student in France</h3>
 
-
+- 20 Y/O
+- Interested in computer simulations, video games, and programming of all kind
 - I'm currently working on a Vite/Vue project for Legrand
 - 🌱 I'm currently learning **Lua**
 
