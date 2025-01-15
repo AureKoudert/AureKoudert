@@ -2,6 +2,7 @@
 <h3 align="center">I'm Aurélien, a programming student from France</h3>
 
 - **20 years old**
+- Intern at Legrand
 - Passionate about **computer simulations**, **video games**, and **programming**
 - Currently working on a **Vite/Vue project for Legrand**
 - 🌱 Learning **Lua**
