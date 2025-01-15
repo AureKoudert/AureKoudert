@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! 👋</h1>
+<h1 align="center">Hi ! 👋</h1>
 <h3 align="center">I'm Aurélien, a programming student from France</h3>
 
 - **20 years old**
